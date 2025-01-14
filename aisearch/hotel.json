@@ -1,0 +1,162 @@
+[
+    {
+        "@search.action": "upload",
+        "hotelId": "1",
+        "hotelName": "Fancy Stay",
+        "description": "Best hotel in town if you like luxury hotels. They have an amazing infinity pool, a spa, and a really helpful concierge. The location is perfect -- right downtown, close to all the tourist attractions. We highly recommend this hotel.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "2",
+        "hotelName": "Roach Motel",
+        "description": "Cheapest hotel in town. Infact, a motel.",
+        "category": "Budget",
+        "rating": 1
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "3",
+        "hotelName": "Comfort Inn",
+        "description": "A comfortable place to stay with all basic amenities.",
+        "category": "Standard",
+        "rating": 3
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "4",
+        "hotelName": "Grand Palace",
+        "description": "A grand hotel with luxurious facilities.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "5",
+        "hotelName": "Budget Inn",
+        "description": "Affordable stay with basic facilities.",
+        "category": "Budget",
+        "rating": 2
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "6",
+        "hotelName": "City Lodge",
+        "description": "Conveniently located in the city center.",
+        "category": "Standard",
+        "rating": 4
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "7",
+        "hotelName": "Seaside Resort",
+        "description": "Beautiful resort by the sea.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "8",
+        "hotelName": "Mountain Retreat",
+        "description": "Peaceful retreat in the mountains.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "9",
+        "hotelName": "Airport Hotel",
+        "description": "Conveniently located near the airport.",
+        "category": "Standard",
+        "rating": 3
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "10",
+        "hotelName": "Country Inn",
+        "description": "Charming inn in the countryside.",
+        "category": "Standard",
+        "rating": 4
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "11",
+        "hotelName": "Urban Hotel",
+        "description": "Modern hotel in the heart of the city.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "12",
+        "hotelName": "Historic Hotel",
+        "description": "Historic hotel with a rich heritage.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "13",
+        "hotelName": "Eco Lodge",
+        "description": "Eco-friendly lodge with sustainable practices.",
+        "category": "Standard",
+        "rating": 4
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "14",
+        "hotelName": "Boutique Hotel",
+        "description": "Stylish boutique hotel with unique decor.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "15",
+        "hotelName": "Business Hotel",
+        "description": "Ideal for business travelers.",
+        "category": "Standard",
+        "rating": 4
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "16",
+        "hotelName": "Family Resort",
+        "description": "Perfect for family vacations.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "17",
+        "hotelName": "Adventure Lodge",
+        "description": "Great for adventure enthusiasts.",
+        "category": "Standard",
+        "rating": 4
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "18",
+        "hotelName": "Spa Retreat",
+        "description": "Relaxing spa retreat.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "19",
+        "hotelName": "Beachfront Hotel",
+        "description": "Hotel with direct beach access.",
+        "category": "Luxury",
+        "rating": 5
+    },
+    {
+        "@search.action": "upload",
+        "hotelId": "20",
+        "hotelName": "Desert Oasis",
+        "description": "Oasis in the desert with luxurious amenities.",
+        "category": "Luxury",
+        "rating": 5
+    }
+]

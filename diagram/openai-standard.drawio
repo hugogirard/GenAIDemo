@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="T36c5iZK4-yAz2EWMxFc" name="Page-1">
+        <mxGraphModel dx="1057" dy="779" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="39" value="Canada East" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="229" y="126" width="471" height="409" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" style="edgeStyle=none;html=1;fontSize=18;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="40" target="43">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="OpenAI&lt;br&gt;Endpoint" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#FF8000;" parent="1" vertex="1">
+                    <mxGeometry x="272" y="239" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;fontColor=#000000;" parent="1" source="42" target="40" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Customer&lt;br&gt;Application" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fontColor=#000000;fillColor=#FF8000;" parent="1" vertex="1">
+                    <mxGeometry x="34" y="239" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="gpt-4o / 2024-11-20" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCE5FF;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="486" y="137" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="516" y="161" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="572" y="161" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="627" y="161" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="text-embedding-3-large / 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF66B3;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="478" y="277" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="508" y="301" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="564" y="301" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="619" y="301" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="gpt-4o / 2024-08-06" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99FFCC;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="471" y="411" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="501" y="435" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="557" y="435" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" parent="1" vertex="1">
+                    <mxGeometry x="612" y="435" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="394" y="387" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="Customer deployment&lt;br style=&quot;font-size: 18px;&quot;&gt;gpt-4o Standard version 2024-11-20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=18;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="10" y="50" width="400" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

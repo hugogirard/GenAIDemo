@@ -1,0 +1,106 @@
+<mxfile host="65bd71144e">
+    <diagram id="T36c5iZK4-yAz2EWMxFc" name="Page-1">
+        <mxGraphModel dx="1775" dy="916" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="Canada East" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="202" y="139" width="471" height="415" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="OpenAI&lt;br&gt;Endpoint" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#66FF66;" parent="1" vertex="1">
+                    <mxGeometry x="245" y="252" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;fontColor=#000000;" parent="1" source="12" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Customer&lt;br&gt;Application" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fontColor=#000000;fillColor=#66FF66;" parent="1" vertex="1">
+                    <mxGeometry x="7" y="252" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Capacity&lt;br&gt;Pool&lt;br&gt;Model/Version" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCE5FF;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="459" y="150" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="489" y="174" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="545" y="174" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="174" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Capacity&lt;br&gt;Pool&lt;br&gt;Model/Version" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF66B3;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="451" y="290" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="481" y="314" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="537" y="314" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="592" y="314" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Capacity&lt;br&gt;Pool&lt;br&gt;Model/Version" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99FFCC;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="444" y="424" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="474" y="448" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="448" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="585" y="448" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="East US" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="202" y="601" width="471" height="415" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="OpenAI&lt;br&gt;Endpoint" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=#FF8000;" vertex="1" parent="1">
+                    <mxGeometry x="245" y="714" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;strokeColor=#000000;strokeWidth=3;fontColor=#000000;" edge="1" parent="1" source="42" target="40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="Customer&lt;br&gt;Application" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fontColor=#000000;fillColor=#FF8000;" vertex="1" parent="1">
+                    <mxGeometry x="7" y="714" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="Capacity&lt;br&gt;Pool&lt;br&gt;Model/Version" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCE5FF;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="459" y="612" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="489" y="636" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="545" y="636" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="636" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Capacity&lt;br&gt;Pool&lt;br&gt;Model/Version" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FF66B3;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="451" y="752" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="481" y="776" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="537" y="776" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="592" y="776" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Capacity&lt;br&gt;Pool&lt;br&gt;Model/Version" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#99FFCC;strokeColor=#000000;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="444" y="886" width="202" height="79" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="474" y="910" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="910" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;strokeColor=#000000;fontColor=#000000;fillColor=#FF66B3;" vertex="1" parent="1">
+                    <mxGeometry x="585" y="910" width="37.73" height="35" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
